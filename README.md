@@ -1,7 +1,7 @@
 # odd-even-sort
 odd-even-sort, using MPI
 
-
+2021年春季学期，高性能计算导论(Introduction to High Performance Computing) PA1
 
 Parallel odd-even-sort algorithm. Use MPI to implement the odd-even-sort algorithm, and the MPI process can only send messages to its neighboring processes.
 
